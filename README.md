@@ -14,7 +14,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Ficha de entrada](#Ficha-de-entrada)
-   * [Tecnologias](#Gerencionamento-de-estoque)
+   * [Estoque](#Gerencionamento-de-estoque)
    * [Registro](#Registro)
    * [🚧Código legado🚧](#Codigo-legado)
 <!--te-->
